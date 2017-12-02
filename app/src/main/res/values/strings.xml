@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CineBank</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="planets_array">
+        <item>Movie</item>
+        <item>Series</item>
+        <item>Animation</item>
+
+    </string-array>
+
+    <string-array name="type_array">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Comedy</item>
+        <item>Horror</item>
+        <item>Non-Fiction</item>
+        <item>Romantic</item>
+        <item>Scifi</item>
+    </string-array>
+
+    <string-array name="userview_array">
+        <item>Seen</item>
+        <item>Unseen</item>
+
+    </string-array>
+    <string-array name="comment_array">
+        <item>Awesome</item>
+        <item>Running</item>
+        <item>Roten Tomatto</item>
+
+</string-array>
+    <string-array name="view_record">
+        <item>My Suggession</item>
+        <item>My Rated</item>
+        <item>My WishList</item>
+
+    </string-array>
+
+    <string-array name="filter">
+        <item>My Seen</item>
+        <item>My Unseen</item>
+        <item>Release</item>
+    </string-array>
+
+</resources>
